@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+# Start Apach so to return a
+# page conatining Holberton
+service apache2 start
